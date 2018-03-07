@@ -11,7 +11,7 @@
 
 ## Technical Requirements
 
-- Language: Java
+- Language: Java only **(Don't take the test in Kotlin please!)**
 - Platform Version: 5.1+
 
 ## Evaluation criteria
